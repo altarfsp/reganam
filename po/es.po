@@ -1,0 +1,261 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.lainsce.reganam package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.lainsce.reganam\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-21 11:22-0300\n"
+"PO-Revision-Date: 2019-08-04 09:13+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: Fernando Naranjo Molina <fernando@karyfer.net>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: src/MainWindow.vala:120
+msgid "Type:"
+msgstr "Tipo:"
+
+#: src/MainWindow.vala:124
+msgid "Atmosphere:"
+msgstr "Atmósfera:"
+
+#: src/MainWindow.vala:128
+msgid "Diameter:"
+msgstr "Diámetro:"
+
+#: src/MainWindow.vala:132
+msgid "Population:"
+msgstr "Población:"
+
+#: src/MainWindow.vala:136
+msgid "Mineral:"
+msgstr "Mineral:"
+
+#: src/MainWindow.vala:137
+msgid "Crystal:"
+msgstr "Cristal:"
+
+#: src/MainWindow.vala:138
+msgid "Hydrogen:"
+msgstr "Hidrógeno:"
+
+#: src/MainWindow.vala:194
+msgid "Mines & Storage"
+msgstr "Minas y Almacenamiento"
+
+#: src/MainWindow.vala:195
+msgid "Mineral Mine:"
+msgstr "Mineral extraído:"
+
+#: src/MainWindow.vala:196
+msgid "Crystal Mine:"
+msgstr "Cristal extraído:"
+
+#: src/MainWindow.vala:197
+msgid "Hydrogen Mine:"
+msgstr "Hidrógeno extraído:"
+
+#: src/MainWindow.vala:217 src/MainWindow.vala:224 src/MainWindow.vala:231
+#: src/MainWindow.vala:302 src/MainWindow.vala:309 src/MainWindow.vala:316
+#: src/MainWindow.vala:370 src/MainWindow.vala:449
+msgid "Build!"
+msgstr "¡Construir!"
+
+#: src/MainWindow.vala:222 src/MainWindow.vala:229 src/MainWindow.vala:236
+#: src/MainWindow.vala:248 src/MainWindow.vala:262 src/MainWindow.vala:276
+#: src/MainWindow.vala:907 src/MainWindow.vala:908 src/MainWindow.vala:909
+#, c-format
+msgid "To build the next level, %.0f of Mineral and %.0f of Crystal is needed"
+msgstr ""
+"Para construir el siguiente nivel, necesita %.0f de minerales y %.0f de "
+"cristal"
+
+#: src/MainWindow.vala:280
+msgid "Mineral Storage:"
+msgstr "Almacén de mineral:"
+
+#: src/MainWindow.vala:281
+msgid "Crystal Storage:"
+msgstr "Almacén de cristal:"
+
+#: src/MainWindow.vala:282
+msgid "Hydrogen Storage:"
+msgstr "Almacén de hidrógeno:"
+
+#: src/MainWindow.vala:307 src/MainWindow.vala:332 src/MainWindow.vala:911
+#, c-format
+msgid "To build the next level, %.0f of Mineral is needed"
+msgstr "Para construir el siguiente nivel, necesita %.0f de mineral"
+
+#: src/MainWindow.vala:314 src/MainWindow.vala:345 src/MainWindow.vala:912
+#, c-format
+msgid "To build the next level, %.0f of Crystal is needed"
+msgstr "Para construir el siguiente nivel, necesita %.0f de cristal"
+
+#: src/MainWindow.vala:321 src/MainWindow.vala:358 src/MainWindow.vala:375
+#: src/MainWindow.vala:913
+#, c-format
+msgid "To build the next level, %.0f of Hydrogen is needed"
+msgstr "Para construir el siguiente nivel, necesita %.0f de hidrogeno"
+
+#: src/MainWindow.vala:362
+msgid "Population Housing:"
+msgstr "Viviendas:"
+
+#: src/MainWindow.vala:388 src/MainWindow.vala:910
+#, c-format
+msgid "To build the next level, %.0f of Crystal and %.0f of Hydrogen is needed"
+msgstr ""
+"Para construir el siguiente nivel, necesita %.0f de cristal y %.0f de "
+"hidrógeno"
+
+#: src/MainWindow.vala:440
+msgid "Research Lab & Technologies"
+msgstr "Laboratorio de investigación y tecnología"
+
+#: src/MainWindow.vala:441
+msgid "Research Lab:"
+msgstr "Laboratorio de investigación:"
+
+#: src/MainWindow.vala:454 src/MainWindow.vala:468 src/MainWindow.vala:914
+#, c-format
+msgid ""
+"To build the next level, %.0f of Mineral, %.0f of Crystal and %.0f of "
+"Hydrogen is needed"
+msgstr ""
+"Para construir el siguiente nivel, necesita %.0f de mineral, %.0f de cristal "
+"y %.0f de hidrógeno"
+
+#: src/MainWindow.vala:472
+msgid "Synthesizer of Minerals:"
+msgstr "Sintetizador de minerales:"
+
+#: src/MainWindow.vala:480 src/MainWindow.vala:509 src/MainWindow.vala:538
+msgid "Research!"
+msgstr "¡Investigar!"
+
+#: src/MainWindow.vala:485 src/MainWindow.vala:497 src/MainWindow.vala:915
+#, c-format
+msgid ""
+"To research the next level, %.0f of Crystal, %.0f of Hydrogen and a Research "
+"Lab level of 1 is needed"
+msgstr ""
+"Para investigar el siguiente nivel necesita %.0f de cristal, %.0f de "
+"hidrógeno y un laboratorio de investigación de nivel 1"
+
+#: src/MainWindow.vala:501
+msgid "Synthesizer of Crystals:"
+msgstr "Sintetizador de cristales:"
+
+#: src/MainWindow.vala:514 src/MainWindow.vala:526 src/MainWindow.vala:916
+#, c-format
+msgid ""
+"To research the next level, %.0f of Crystal, %.0f of Hydrogen and a Research "
+"Lab level of 2 is needed"
+msgstr ""
+"Para investigar el siguiente nivel necesita %.0f de cristal, %.0f de "
+"hidrógeno y un laboratorio de investigación de nivel 2"
+
+#: src/MainWindow.vala:530
+msgid "Synthesizer of Hydrogen:"
+msgstr "Sintetizador de hidrógeno:"
+
+#: src/MainWindow.vala:543 src/MainWindow.vala:555 src/MainWindow.vala:917
+#, c-format
+msgid ""
+"To research the next level, %.0f of Crystal, %.0f of Hydrogen and a Research "
+"Lab level of 3 is needed"
+msgstr ""
+"Para investigar el siguiente nivel necesita %.0f de cristal, %.0f de "
+"hidrógeno y un laboratorio de investigación de nivel 3"
+
+#: src/MainWindow.vala:716
+msgid "Info"
+msgstr "Información"
+
+#: src/MainWindow.vala:717
+msgid "Mines"
+msgstr "Minas"
+
+#: src/MainWindow.vala:718
+msgid "Research"
+msgstr "Investigación"
+
+#: src/MainWindow.vala:748
+msgid "Temperate Terrestrial"
+msgstr "Terrestre templado"
+
+#: src/MainWindow.vala:748
+msgid "Polarian Terrestrial"
+msgstr "Terrestre polar"
+
+#: src/MainWindow.vala:748
+msgid "Chthonian Terrestrial"
+msgstr "Terrestre chthoniano"
+
+#: src/MainWindow.vala:749
+msgid "Temperate Gas Giant"
+msgstr "Gigante de gas templado"
+
+#: src/MainWindow.vala:749
+msgid "Polarian Gas Giant"
+msgstr "Gigante polar gaseoso"
+
+#: src/MainWindow.vala:749
+msgid "Chthonian Gas Giant"
+msgstr "Gigante gaseoso chthoniano"
+
+#: src/MainWindow.vala:750
+msgid "Temperate Dwarf"
+msgstr "Enano templado"
+
+#: src/MainWindow.vala:750
+msgid "Polarian Dwarf"
+msgstr "Enano polar"
+
+#: src/MainWindow.vala:750
+msgid "Chthonian Dwarf"
+msgstr "Enano chthoniano"
+
+#: src/MainWindow.vala:751
+msgid "Incognito"
+msgstr "Incógnito"
+
+#: src/MainWindow.vala:771
+msgid "Nitrogenic"
+msgstr "Nitrogénico"
+
+#: src/MainWindow.vala:771
+msgid "Nitrogen & Oxygen"
+msgstr "Nitrógeno y oxígeno"
+
+#: src/MainWindow.vala:772
+msgid "Methane"
+msgstr "Metano"
+
+#: src/MainWindow.vala:772
+msgid "Beryllic"
+msgstr "Berílico"
+
+#: src/MainWindow.vala:772
+msgid "Carbon Dioxide"
+msgstr "Dióxido de carbono"
+
+#: src/MainWindow.vala:773
+msgid "Argonic"
+msgstr "Argónico"
+
+#: src/MainWindow.vala:773
+msgid "Helium"
+msgstr "Helio"
+
+#: src/MainWindow.vala:773
+msgid "Hydrogenic"
+msgstr "Hidrogénico"
